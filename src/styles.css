@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+body, li {
+    background-color: rgb(23, 22, 22);
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+h1, h2, h3, p, li, a{
+    color: white;
+}
+.class{
+    border-bottom: 1px solid rgb(35, 35, 218) ;
+    padding: 2em;
+    margin-bottom: 1em;
+}
+/* You can add global styles to this file, and also import other style files */
