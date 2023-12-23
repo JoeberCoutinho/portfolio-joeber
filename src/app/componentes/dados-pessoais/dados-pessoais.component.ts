@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class DadosPessoaisComponent {
   name: string = "Joeber Coutinho";
   job: string = "Desenvolvedor Java Web";
-  linkedin: string = "https://www.linkedin.com/in/joeber-coutinho/details/skills/";
+  linkedin: string = "https://www.linkedin.com/in/joeber-coutinho/";
   adress: string = "Campo Belo, MG";
   telefone: string = "35-999761290";
   email: string = "joebercoutinho@gmail.com";
