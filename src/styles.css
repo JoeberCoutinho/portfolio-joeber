@@ -1,6 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 body, li {
-    background-color: rgb(23, 22, 22);
+    background-color: rgb(88, 86, 86);
     font-family: Arial, sans-serif;
     margin: 20px;
 }
@@ -8,10 +8,10 @@ h1, h3, p, li, a{
     color: white;
 }
 h2{
-    color:rgb(12, 103, 152)
+    color:rgb(14, 168, 160)
 }
 .class{
-    border-bottom: 1px solid rgb(35, 35, 218) ;
+    border-bottom: 8px solid rgb(35, 35, 218) ;
     padding: 2em;
     margin-bottom: 1em;
 }
