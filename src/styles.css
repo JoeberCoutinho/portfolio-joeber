@@ -4,8 +4,11 @@ body, li {
     font-family: Arial, sans-serif;
     margin: 20px;
 }
-h1, h2, h3, p, li, a{
+h1, h3, p, li, a{
     color: white;
+}
+h2{
+    color:rgb(12, 103, 152)
 }
 .class{
     border-bottom: 1px solid rgb(35, 35, 218) ;
