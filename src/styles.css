@@ -12,7 +12,8 @@ h2{
 }
 .class{
     border-bottom: 8px solid rgb(11, 11, 72) ;
-    padding: 2em;
+    padding: 1em;
     margin-bottom: 1em;
+    
 }
 /* You can add global styles to this file, and also import other style files */

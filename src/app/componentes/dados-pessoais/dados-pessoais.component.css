@@ -2,13 +2,17 @@ h1, h2, h3{
     text-align: center;
 }
 .bg-image {
-    background-image: url('../img/eu.png');
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center; 
-    width: 120px;
-    height: 120px;
-    border-radius: 50px;
+ 
+display: flex;
+flex-direction: column;
+background-image: url('../img/eu.png');
+align-items: center;
+justify-content: center;
+width:150px;
+height: 150px;
+border-radius: 50%;
+background-repeat: no-repeat;
+    
   }
   
 
